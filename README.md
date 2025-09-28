@@ -21,17 +21,17 @@ We built a Tkinter app that uses two Hugging Face models and shows how OOP conce
 
 ## How to run
 1. Make a virtual environment (optional but better)
-   ```bash
+   ```
    python -m venv .venv
    source .venv/bin/activate   # Mac/Linux
    .venv\Scripts\activate      # Windows
    ```
 2. Install requirements:
-   ```bash
+   ```
    pip install -r requirements.txt
    ```
 3. Run the app:
-   ```bash
+   ```
    python main.py
    ```
 
