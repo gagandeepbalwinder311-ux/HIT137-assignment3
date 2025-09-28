@@ -1,5 +1,10 @@
 # HIT137 – Group Assignment 3
 
+## Please Note
+> **First run needs internet:** The app will download the Hugging Face models automatically on first use (one-time).
+> After that, it runs offline from the local cache.
+
+
 This is our Group Assignment 3 project for HIT137.  
 We built a Tkinter app that uses two Hugging Face models and shows how OOP concepts can be used in Python.
 
