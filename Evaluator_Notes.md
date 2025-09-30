@@ -7,4 +7,5 @@
   3) `python main.py`
 - Models used:
   - Text Sentiment: distilbert-base-uncased-finetuned-sst-2-english
+
   - Image Classification: google/vit-base-patch16-224
