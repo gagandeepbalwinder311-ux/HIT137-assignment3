@@ -1,5 +1,7 @@
 # Contributors & Work Division
 
+All files were finally tested and uploaded by **GAGANDEEP GAGANDEEP** into the repository, but all the final changes were made by the **individual owners of the files** as listed below and as can be seen in the commit history.
+
 This project was completed by the following group members:
 
 - **GAGANDEEP GAGANDEEP (GUI Lead):** Primary author of `gui.py` (menus, layout, event wiring). Also wrote the Model Info & OOP Explainers panel.
